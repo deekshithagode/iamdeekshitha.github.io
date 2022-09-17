@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+    color: white;
+    padding-right: 10px;
+    padding-left: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+li a{
+    display: block;
+    text-align: right;
+    text-decoration: none;
+}
+section{
+    background-color: rgb(235, 248, 242);
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 100px;
+
+}
+img{
+    width: 10px;
+
+}
+.cart{
+margin-left: 30px;
+}
